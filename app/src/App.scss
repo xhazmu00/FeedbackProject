@@ -1,0 +1,33 @@
+.feedbackhome {
+
+    h2 {
+        text-align: center;
+        margin-bottom: 2rem;
+        margin-top: 1rem;
+    }
+
+    p {
+        text-align: center;
+        font-style: italic;
+    }
+
+    width: 25%;
+    margin: 0 auto;
+}
+
+.feedbacklist{
+    width: 25%;
+    margin: 0 auto;
+}
+
+footer{
+    margin-top: 5rem;
+    // position: fixed;
+    // width: 100%;
+    // bottom: 0;
+    .bg-color{
+        
+        
+        background-color: rgba(0, 0, 0, 0.2)
+        }
+}
